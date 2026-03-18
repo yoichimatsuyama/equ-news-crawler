@@ -1,0 +1,5 @@
+[project]
+name = "engoo-extractor"
+version = "0.1.0"
+description = "Phase 1 PoC for Engoo Daily News extractor"
+requires-python = ">=3.11"

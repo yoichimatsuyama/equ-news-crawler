@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+output/
+playwright-report/
+*.pyc
+.DS_Store
